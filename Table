@@ -1,0 +1,31 @@
+;A table of functions and their arguments for building simple Low-level programs.
+
+Load
+  @ ;A storage location
+  # ; An integer
+  @ index ;A storage location where a moveable location identifier resides
+  index ;A moveable location identifier
+Store
+  @
+  @ index
+Add
+  #
+  @
+Sub
+  #
+  @
+Multi
+  #
+  @
+Div
+  #
+  @
+inc
+  #
+  @
+dec
+  #
+  @
+jumpto ;Jumps to a line in the program.
+  
+  
